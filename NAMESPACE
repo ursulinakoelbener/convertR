@@ -2,3 +2,4 @@
 
 export(celsius_to_farenheit)
 export(celsius_to_kelvin)
+export(ft_to_cm)
