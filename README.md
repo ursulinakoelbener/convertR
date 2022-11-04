@@ -6,7 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of convertR is to …
+The goal of the R Package convertR is to easily convert numbers from one
+type of unit to another. For example Celsius to Farenheit or from feet
+to meters. It helps to convert accuarately various units.
 
 ## Installation
 
