@@ -3,7 +3,7 @@
 #' The purpose of this function is to convert a temperature in
 #' Celsius (C°) to a temperature in Kelvin (K).
 #'
-#' @param tempC #'(numeric) A positive or negative number
+#' @param tempC (numeric) A positive or negative number
 #'
 #' @return the temperature in Celsius (C°)
 #' @export

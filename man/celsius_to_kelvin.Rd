@@ -7,7 +7,7 @@
 celsius_to_kelvin(tempC)
 }
 \arguments{
-\item{tempC}{#'(numeric) A positive or negative number}
+\item{tempC}{(numeric) A positive or negative number}
 }
 \value{
 the temperature in Celsius (C°)

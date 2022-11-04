@@ -7,7 +7,7 @@
 #'
 #' @param feet (numeric)
 #'
-#' @return
+#' @return Numer in Centimeters
 #' @export
 #'
 #' @examples

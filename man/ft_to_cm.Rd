@@ -9,6 +9,9 @@ ft_to_cm(feet)
 \arguments{
 \item{feet}{(numeric)}
 }
+\value{
+Numer in Centimeters
+}
 \description{
 In 1959 the international yard and pound agreement (between the United
 States and countries of the Commonwealth of Nations) defined a yard as
