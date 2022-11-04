@@ -1,0 +1,17 @@
+Package: convertR
+Type: Package
+Title: Converting Units from One Type to Another
+Version: 0.1.0
+Author: Ursulina Kölbener
+Maintainer: Ursulina Kölbener <ursulina@koelbener.ch>
+Description: The main purpose of this package is to offer functionality 
+    that the user can easily convert from one type of unit to another. For 
+    example Celsius to Farenheit or from feet to meters. It helps to convert 
+    quickly and accuarately various units.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
